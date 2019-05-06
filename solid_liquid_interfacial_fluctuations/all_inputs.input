@@ -1,0 +1,13 @@
+solid_top_positions_file toppositions_100.atom
+solid_init_top_positions_file toppositions_init_100.atom
+positions_file positions_100.atom
+msd_file MSD_all_100.dat
+snapshots 2000
+natoms 27324
+nsolidtopatoms 900
+x_min 0
+x_max 30
+y_min 0
+y_max 30
+z_min 0
+z_max 80
